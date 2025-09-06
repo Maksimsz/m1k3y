@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Vosk models (large)
+vosk-model-*/
+m1k3y/vosk-model-*/
+
+# Logs / runtime
+logs/
+*.log
+
+# User-specific config (adjust if you want to keep an example)
+**/user_config.json
+
+# IDE
+.vscode/
+.idea/
+
+# Misc
+.DS_Store
+Thumbs.db

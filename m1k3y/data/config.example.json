@@ -1,0 +1,10 @@
+{
+  "model_name": "mistral",
+  "mic_device_index": null,
+  "tts_voice": null,
+  "enable_text_injection": true,
+  "auto_confirm_low": true,
+  "auto_confirm_medium": false,
+  "require_voice_confirm_high": true,
+  "log_level": "INFO"
+}
